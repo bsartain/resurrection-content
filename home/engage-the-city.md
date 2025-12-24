@@ -9,6 +9,6 @@ excerpt: Engage The City
 section: highlights
 imageDirection: right
 ---
-## Engage the City
+# Engage the City
 
 Step out with us to love and serve Rock Hill, bringing hope, compassion, and the good news of Jesus to our neighbors and neighborhoods.
