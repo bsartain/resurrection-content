@@ -7,7 +7,7 @@ order: 2
 show: true
 excerpt: Embody The Community
 section: highlights
-imageDirection: right
+imageDirection: left
 ---
 ## Embody Community
 
