@@ -5,6 +5,7 @@ slug: our-story
 order: 2
 show: true
 excerpt: Our Story
+section: ourStory
 ---
 # Our Story
 
