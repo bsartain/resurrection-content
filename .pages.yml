@@ -6,7 +6,7 @@ content:
     extension: md
     create: true
     filename:
-      template: "{{slug}}"
+      template: "{{title}}"
     fields:
       - name: date
         label: Date
