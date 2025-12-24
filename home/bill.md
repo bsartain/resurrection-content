@@ -4,7 +4,7 @@ title: Bill Welcome Message
 slug: bill-welcome-message
 order: 1
 show: true
-excerpt: billWelcomeMessage
+excerpt: Bill Welcome Message
 section: ourStory
 ---
 # Our Story
