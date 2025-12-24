@@ -40,6 +40,10 @@ content:
         label: Excerpt
         type: text
 
+      - name: section
+        label: Section
+        type: text
+
       - name: body
         label: Content
         type: markdown
@@ -72,7 +76,7 @@ content:
         label: Image
         type: image
 
-      - name: order
+      - name: order``
         label: Order
         type: number
 
