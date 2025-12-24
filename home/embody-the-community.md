@@ -2,7 +2,7 @@
 date: 2025-01-15
 title: Embody The Community
 slug: embody-the-community
-order: 1
+order: 2
 show: true
 excerpt: Embody The Community
 section: highlights

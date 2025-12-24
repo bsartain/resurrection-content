@@ -2,7 +2,7 @@
 date: 2025-01-15
 title: Engage The City
 slug: engage-the-city
-order: 1
+order: 3
 show: true
 excerpt: Engage The City
 section: highlights
