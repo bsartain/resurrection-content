@@ -9,6 +9,6 @@ excerpt: Embody The Community
 section: highlights
 imageDirection: left
 ---
-## Embody Community
+# Embody Community
 
 Join a welcoming family where we share life together, support one another, and grow in faith through genuine relationships rooted in Christ.
