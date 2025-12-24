@@ -7,6 +7,7 @@ show: true
 excerpt: Experience the Trinity
 section: highlights
 imageDirection: "right"
+postImage: "praise.jpg"
 ---
 
 ## Experience the Trinity

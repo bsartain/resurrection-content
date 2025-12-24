@@ -7,6 +7,7 @@ show: true
 excerpt: Embody The Community
 section: highlights
 imageDirection: "right"
+postImage: "little-girl.jpg"
 ---
 
 ## Embody Community

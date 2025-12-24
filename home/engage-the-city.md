@@ -7,6 +7,7 @@ show: true
 excerpt: Engage The City
 section: highlights
 imageDirection: "left"
+postImage: "outreach.jpg"
 ---
 
 ## Engage the City
