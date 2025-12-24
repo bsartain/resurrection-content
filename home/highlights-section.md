@@ -2,12 +2,10 @@
 date: 2025-01-15
 title: Highlights Section
 slug: highlights-section
-postImage:
-order: 1
+order: 2
 show: true
 excerpt: Highlights Section
 ---
-
 ## Experience the Trinity
 
 Come encounter the living God—Father, Son, and Holy Spirit—in worship that draws you into the beauty, mystery, and love of the Trinity.
