@@ -7,7 +7,7 @@ order: 3
 show: true
 excerpt: Engage The City
 section: highlights
-imageDirection: left
+imageDirection: right
 ---
 ## Engage the City
 
