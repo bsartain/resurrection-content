@@ -2,13 +2,11 @@
 date: 2025-01-15
 title: Our Story
 slug: our-story
-postImage:
 order: 2
 show: true
 excerpt: Our Story
 ---
-
-## Our Story
+# Our Story
 
 Visiting a new church can be overwhelming sometimes. As you consider our church, we hope you will discover a loving community of believers connected to our ancient Christian roots and planted deeply here in the heart of Rock Hill, SC. Please reach out if you have any questions or need directions.
 
