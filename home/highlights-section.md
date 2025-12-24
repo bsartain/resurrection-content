@@ -2,7 +2,7 @@
 date: 2025-01-15
 title: Highlights Section
 slug: highlights-section
-order: 2
+order: 1
 show: true
 excerpt: Highlights Section
 ---
