@@ -44,6 +44,10 @@ content:
         label: Section
         type: text
 
+      - name: imageDirection
+        label: Image Direction
+        type: text
+
       - name: body
         label: Content
         type: markdown

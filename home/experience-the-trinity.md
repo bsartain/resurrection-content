@@ -6,6 +6,7 @@ order: 1
 show: true
 excerpt: Experience the Trinity
 section: highlights
+imageDirection: "right"
 ---
 
 ## Experience the Trinity
