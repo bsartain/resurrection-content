@@ -1,10 +1,10 @@
 ---
 date: 2025-01-15
-title: Our Story
-slug: our-story
-order: 2
+title: Bill Welcome Message
+slug: bill-welcome-message
+order: 1
 show: true
-excerpt: Our Story
+excerpt: billWelcomeMessage
 section: ourStory
 ---
 # Our Story
