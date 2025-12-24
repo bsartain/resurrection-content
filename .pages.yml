@@ -1,0 +1,26 @@
+content:
+  - name: home
+    label: Home Sections
+    type: collection
+    path: home
+    extension: md
+    create: true
+    filename:
+      template: "{{slug}}"
+    fields: ...
+
+  - name: posts
+    label: Posts
+    type: collection
+    path: posts
+    extension: md
+    create: true
+    filename:
+      template: "{{slug}}"
+    fields: ...
+
+media:
+  - name: images
+    label: Images
+    input: images
+    output: /images
