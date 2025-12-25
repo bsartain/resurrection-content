@@ -8,5 +8,4 @@ show: true
 section: leadership
 ---
 **Rev. Bill Scott**
-
 Pastor/Rector
