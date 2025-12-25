@@ -5,7 +5,7 @@ slug: our-story
 order: 2
 show: true
 excerpt: Our Story
-section: right
+section: ourStory
 imageDirection: right
 ---
 Resurrection Anglican Church is a welcoming community in the heart of Rock Hill where people of all ages can explore faith, grow in relationship with God, and belong to something deeper than themselves. As part of the global Anglican tradition, our worship is deeply rooted in Scripture and the historic practices of the church, drawing from ancient Christian rhythms that help us center our lives on the life, death, and resurrection of Jesus. Whether you’re curious about faith for the first time or returning after a long season away, you’ll find a place where questions are welcome, and hearts are open.
