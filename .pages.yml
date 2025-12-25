@@ -78,7 +78,7 @@ content:
         label: Image
         type: image
 
-      - name: order``
+      - name: order
         label: Order
         type: number
 
