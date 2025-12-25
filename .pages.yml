@@ -46,9 +46,6 @@ content:
       - name: imageDirection
         label: Image Direction
         type: string
-        options:
-          - left
-          - right
 
       - name: body
         label: Content
