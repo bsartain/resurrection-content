@@ -49,7 +49,7 @@ content:
 
       - name: body
         label: Content
-        type: markdown
+        type: string
 
   - name: posts
     label: Posts
