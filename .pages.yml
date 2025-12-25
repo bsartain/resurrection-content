@@ -93,7 +93,7 @@ content:
 
       - name: body
         label: Content
-        type: markdown
+        type: string
 
 media:
   - name: images
