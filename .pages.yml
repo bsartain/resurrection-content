@@ -5,7 +5,7 @@ content:
     path: home
     extension: md
     create: true
-    filename: "{{slug}}"
+    filename: "slug"
     fields:
       - name: date
         label: Date
