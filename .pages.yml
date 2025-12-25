@@ -3,7 +3,7 @@ content:
     label: Home Sections
     type: collection
     path: home
-    extension: md
+    extension: "md"
     create: true
     filename: "{{slug}}"
     fields:
@@ -45,7 +45,10 @@ content:
 
       - name: imageDirection
         label: Image Direction
-        type: text
+        type: string
+        options:
+          - left
+          - right
 
       - name: body
         label: Content
