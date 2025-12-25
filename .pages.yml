@@ -2,7 +2,7 @@ content:
   - name: home
     label: Home Sections
     type: collection
-    path: src/home
+    path: home
     extension: md
     create: true
     filename: "{{slug}}"
