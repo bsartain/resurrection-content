@@ -3,8 +3,6 @@ content:
     label: Home Sections
     type: collection
     path: home
-    extension: md
-    create: true
     filename: "slug"
     fields:
       - name: date
@@ -55,8 +53,6 @@ content:
     label: Posts
     type: collection
     path: posts
-    extension: md
-    create: true
     filename: "{{slug}}"
     fields:
       - name: date
@@ -78,7 +74,7 @@ content:
         label: Image
         type: image
 
-      - name: order``
+      - name: order
         label: Order
         type: number
 
