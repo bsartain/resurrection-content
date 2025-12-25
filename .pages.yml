@@ -47,7 +47,7 @@ content:
 
       - name: body
         label: Content
-        type: string
+        type: markdown
 
   - name: posts
     label: Posts
@@ -89,7 +89,7 @@ content:
 
       - name: body
         label: Content
-        type: string
+        type: markdown
 
 media:
   - name: images
