@@ -3,7 +3,7 @@ date: 2025-12-24
 title: Louise Soileau
 slug: louise-soileau
 postImage: /images/louise.jpeg
-order: 1
+order: 6
 show: true
 section: leadership
 ---
