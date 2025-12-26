@@ -5,7 +5,8 @@ content:
     path: home
     extension: md
     create: true
-    filename: "{{slug}}.md"
+    filename: 
+      template: "{{slug}}.md"
     fields:
       - name: date
         label: Date
