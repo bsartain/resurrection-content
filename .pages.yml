@@ -3,8 +3,8 @@ content:
     label: Home Sections
     type: collection
     path: home
-    extension: md
-    filename: "{{slug}}.md"
+    # extension: md
+    # filename: "{{slug}}.md"
     fields:
       - name: date
         label: Date
