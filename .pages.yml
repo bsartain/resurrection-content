@@ -3,8 +3,6 @@ content:
     label: Home Sections
     type: collection
     path: home
-    # extension: md
-    # filename: "{{slug}}.md"
     fields:
       - name: date
         label: Date
@@ -54,9 +52,6 @@ content:
     label: Posts
     type: collection
     path: posts
-    extension: md
-    create: true
-    filename: "{{slug}}.md"
     fields:
       - name: date
         label: Date
@@ -92,7 +87,7 @@ content:
 
       - name: body
         label: Content
-        type: markdown
+        type: rich-text
 
 media:
   - name: images
