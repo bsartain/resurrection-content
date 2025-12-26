@@ -3,6 +3,7 @@ content:
     label: Home Sections
     type: collection
     path: home
+    extension: md
     filename: "{{slug}}"
     fields:
       - name: date
